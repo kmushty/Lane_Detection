@@ -7,7 +7,8 @@ This project includes the implementation of the following:
 - Turn predicition including angle of turning 
 - The following was done for the footage availble in ``data/project.avi`` and ``data1/data``
 
-Please find the report for the project here
+Please find the report for the project [here](https://github.com/kmushty/Lane_Detection/blob/main/Report_Project_2.pdf)
+
 
 ## Dependencies
 
@@ -24,4 +25,6 @@ In order to implement the code:
 
 
 ## Output 
+
+![Lande Detection gif](lane_detect.gif)
 
